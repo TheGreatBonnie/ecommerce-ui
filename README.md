@@ -31,8 +31,8 @@ A modern e-commerce frontend application built with Next.js, React, and Tailwind
 1. Clone the repository
 
 ```bash
-git clone <repository-url>
-cd ecommerce-frontend
+git clone https://github.com/TheGreatBonnie/ecommerce-ui.git
+cd ecommerce-ui
 ```
 
 2. Install dependencies
